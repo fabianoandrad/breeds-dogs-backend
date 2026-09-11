@@ -2,8 +2,9 @@
 
 ## 💻 Pré-requisitos obrigatório pra rodar o projeto
 
-- Adicionar pasta dos arquivos php no diretório C:
-    - "depois colocar um link aqui"
+- Baixar e adicionar a pasta "php" com os arquivos no diretório
+    - ["Baixar pasta php"](https://1drv.ms/f/c/4d021d44f09ddac0/IgAS5SRYX2BtRr_kGQmP3zxYAaHUBVwac-GWWtNWUS0OfZc?e=y6ufxU)
+    - Descompacte o arquivo baixado e coloque essa pasta "php" dentro do diretório C:/
 - Adicione o caminho C:\php em path nas variáveis de ambiente (usuário)
     - Aperte Windows + R para abrir o executável e coloque este recurso "SystemPropertiesAdvanced" e depois aperte em OK
     - Abra a tela das variáveis de ambiente
@@ -13,10 +14,9 @@
 
 ## 🚀 Rodar projeto backend
 
-Abrir o terminal no diretório "breeds-dogs-backend"
+- Abrir o terminal no diretório "breeds-dogs-backend"
 
-Rode este comando no Powershell:
-
+- Rode este comando no Powershell:
 ```
 php -S localhost:8000
 ```
