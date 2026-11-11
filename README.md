@@ -28,34 +28,26 @@ Aluno que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="#" title="defina o título do link">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+      <a href="https://github.com/fabianoandrad" title="Fabiano Andrade">
+        <img src="https://avatars.githubusercontent.com/u/69534540?v=4" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
         <sub>
-          <b>Fulano</b>
+          <b>Fabiano Andrade</b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="#" title="defina o título do link">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
+      <a href="https://github.com/RaylaAmbrosio" title="Rayla Ambrosio">
+        <img src="https://avatars.githubusercontent.com/u/228836076?v=4" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
         <sub>
-          <b>Fulano</b>
+          <b>Rayla Ambrosio</b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="#" title="defina o título do link">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Steve Jobs"/><br>
+      <a href="https://github.com/danielasalesdev" title="Daniela">
+        <img src="https://avatars.githubusercontent.com/u/263687284?v=4" width="100px;" alt="Foto do Steve Jobs"/><br>
         <sub>
-          <b>Fulano</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#" title="defina o título do link">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Steve Jobs"/><br>
-        <sub>
-          <b>Fulano</b>
+          <b>Daniela</b>
         </sub>
       </a>
     </td>
